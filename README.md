@@ -8,4 +8,4 @@ A simple Tic-Tac-Toe game implemented in Python.
 
 ## How to Run 
 1. Clone the repository.
-2. 2. Run `tic_tac_toe.py` using Python.
+2. Run `tic_tac_toe.py` using Python.
